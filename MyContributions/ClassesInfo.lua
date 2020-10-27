@@ -1,0 +1,68 @@
+local module = {
+	[1] = {
+		Name = "Rookie",
+		Order = 1,
+		Price = 0,
+		Strength = {Gold = 1, Strength = 1},
+		Image = "rbxassetid://4851485815",
+		Color = Color3.fromRGB(159, 161, 172),
+	},
+	[2] = {
+		Name = "Samurai",
+		Order = 1,
+		Price = 1000000,
+		Strength = {Gold = 2, Strength = 2},
+		Image = "rbxassetid://4851492991",
+		Color = Color3.fromRGB(0, 255, 0),
+	},
+	[3] = {
+		Name = "Assassin",
+		Order = 1,
+		Price = 40000000,
+		Strength = {Gold = 4, Strength = 4},
+		Image = "rbxassetid://4851491460",
+		Color = Color3.fromRGB(17, 17, 17),
+	},
+	[4] = {
+		Name = "Master",
+		Order = 1,
+		Price = 1100000000,
+		Strength = {Gold = 6, Strength = 6},
+		Image = "rbxassetid://4851488841",
+		Color = Color3.fromRGB(106, 57, 9),
+	},
+	[5] = {
+		Name = "Hero",
+		Order = 1,
+		Price = 85000000000,
+		Strength = {Gold = 9, Strength = 9},
+		Image = "rbxassetid://4851490168",
+		Color = Color3.fromRGB(255, 255, 0),
+	},
+	[6] = {
+		Name = "Apprentice",
+		Order = 1,
+		Price = 6300000000000,
+		Strength = {Gold = 12, Strength = 12},
+		Image = "rbxassetid://4851492213",
+		Color = Color3.fromRGB(151, 0, 0),
+	},
+	[7] = {
+		Name = "Lord",
+		Order = 1,
+		Price = 47500000000000,
+		Strength = {Gold = 15, Strength = 15},
+		Image = "rbxassetid://4851489570",
+		Color = Color3.fromRGB(255, 0, 0),
+	},
+	[8] = {
+		Name = "Dark Lord",
+		Order = 1,
+		Price = 65000000000000000,
+		Strength = {Gold = 25, Strength = 25},
+		Image = "rbxassetid://4851490785",
+		Color = Color3.fromRGB(117, 0, 0),
+	},
+}
+
+return module

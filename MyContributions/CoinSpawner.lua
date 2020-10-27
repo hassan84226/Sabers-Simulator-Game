@@ -1,4 +1,4 @@
---// Scripted by X3enon Aka.iAmYetToBeFamous
+--// Scripted by Hassan El-Sheikha
 --// Date : 28.11.19
 --// Chest Spawner
 
